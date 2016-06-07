@@ -1,0 +1,898 @@
+[
+  {
+    "name" : "Afghanistan",
+    "data" : "afghanistan.json"
+  },
+  {
+    "name" : "Albania",
+    "data" : "albania.json"
+  },
+  {
+    "name" : "Algeria",
+    "data" : "algeria.json"
+  },
+  {
+    "name" : "Andorra",
+    "data" : "andorra.json"
+  },
+  {
+    "name" : "Angola",
+    "data" : "angola.json"
+  },
+  {
+    "name" : "Anguilla",
+    "data" : "anguilla.json"
+  },
+  {
+    "name" : "Antarctica",
+    "data" : "antarctica.json"
+  },
+  {
+    "name" : "Antigua and Barbuda",
+    "data" : "antigua_and_barbuda.json"
+  },
+  {
+    "name" : "Argentina",
+    "data" : "argentina.json"
+  },
+  {
+    "name" : "Armenia",
+    "data" : "armenia.json"
+  },
+  {
+    "name" : "Aruba",
+    "data" : "aruba.json"
+  },
+  {
+    "name" : "Australia",
+    "data" : "australia.json"
+  },
+  {
+    "name" : "Austria",
+    "data" : "austria.json"
+  },
+  {
+    "name" : "Azerbaijan",
+    "data" : "azerbaijan.json"
+  },
+  {
+    "name" : "Bahamas",
+    "data" : "bahamas.json"
+  },
+  {
+    "name" : "Bahrain",
+    "data" : "bahrain.json"
+  },
+  {
+    "name" : "Bangladesh",
+    "data" : "bangladesh.json"
+  },
+  {
+    "name" : "Barbados",
+    "data" : "barbados.json"
+  },
+  {
+    "name" : "Belarus",
+    "data" : "belarus.json"
+  },
+  {
+    "name" : "Belgium",
+    "data" : "belgium.json"
+  },
+  {
+    "name" : "Belize",
+    "data" : "belize.json"
+  },
+  {
+    "name" : "Benin",
+    "data" : "benin.json"
+  },
+  {
+    "name" : "Bermuda",
+    "data" : "bermuda.json"
+  },
+  {
+    "name" : "Bolivia",
+    "data" : "bolivia.json"
+  },
+  {
+    "name" : "Bosnia and Herzegovina",
+    "data" : "bosnia_and_herzegovina.json"
+  },
+  {
+    "name" : "Botswana",
+    "data" : "botswana.json"
+  },
+  {
+    "name" : "Brazil",
+    "data" : "brazil.json"
+  },
+  {
+    "name" : "British Virgin Islands",
+    "data" : "british_virgin_islands.json"
+  },
+  {
+    "name" : "Brunei",
+    "data" : "brunei.json"
+  },
+  {
+    "name" : "Bulgaria",
+    "data" : "bulgaria.json"
+  },
+  {
+    "name" : "Burkina Faso",
+    "data" : "buburkina_fasolgaria.json"
+  },
+  {
+    "name" : "Burundi",
+    "data" : "burundi.json"
+  },
+  {
+    "name" : "Buthan",
+    "data" : "buthan.json"
+  },
+  {
+    "name" : "Cambodia",
+    "data" : "cambodia.json"
+  },
+  {
+    "name" : "Cameroon",
+    "data" : "cameroon.json"
+  },
+  {
+    "name" : "Canada",
+    "data" : "canada.json"
+  },
+  {
+    "name" : "Cape Verde",
+    "data" : "cape_verde.json"
+  },
+  {
+    "name" : "Cayman Islands",
+    "data" : "cayman_islands.json"
+  },
+  {
+    "name" : "Central African Republic",
+    "data" : "central_african_republic.json"
+  },
+  {
+    "name" : "Chad",
+    "data" : "chad.json"
+  },
+  {
+    "name" : "Chile",
+    "data" : "chile.json"
+  },
+  {
+    "name" : "China",
+    "data" : "china.json"
+  },
+  {
+    "name" : "Colombia",
+    "data" : "colombia.json"
+  },
+  {
+    "name" : "Comoros",
+    "data" : "comoros.json"
+  },
+  {
+    "name" : "Congo",
+    "data" : "congo.json"
+  },
+  {
+    "name" : "Cook Islands",
+    "data" : "cook_islands.json"
+  },
+  {
+    "name" : "Costa Rica",
+    "data" : "costa_rica.json"
+  },
+  {
+    "name" : "Croatia",
+    "data" : "croatia.json"
+  },
+  {
+    "name" : "Cuba",
+    "data" : "cuba.json"
+  },
+  {
+    "name" : "Curaçao",
+    "data" : "curasao.json"
+  },
+  {
+    "name" : "Cyprus",
+    "data" : "cyprus.json"
+  },
+  {
+    "name" : "Czech Republic",
+    "data" : "czech_republic.json"
+  },
+  {
+    "name" : "Denmark",
+    "data" : "denmark.json"
+  },
+  {
+    "name" : "Djibouti",
+    "data" : "djibouti.json"
+  },
+  {
+    "name" : "Dominican Republic",
+    "data" : "dominican_republic.json"
+  },
+  {
+    "name" : "Ecuador",
+    "data" : "ecuador.json"
+  },
+  {
+    "name" : "Egypt",
+    "data" : "egypt.json"
+  },
+  {
+    "name" : "El Salvador",
+    "data" : "el_salvador.json"
+  },
+  {
+    "name" : "Equatorial Guinea",
+    "data" : "equatorial_guinea.json"
+  },
+  {
+    "name" : "Eritrea",
+    "data" : "eritrea.json"
+  },
+  {
+    "name" : "Estonia",
+    "data" : "estonia.json"
+  },
+  {
+    "name" : "Ethiopia",
+    "data" : "ethiopia.json"
+  },
+  {
+    "name" : "Faroe Islands",
+    "data" : "faroe_islands.json"
+  },
+  {
+    "name" : "Fiji",
+    "data" : "fiji.json"
+  },
+  {
+    "name" : "Finland",
+    "data" : "finland.json"
+  },
+  {
+    "name" : "France",
+    "data" : "france.json"
+  },
+  {
+    "name" : "French Guiana",
+    "data" : "french_guiana.json"
+  },
+  {
+    "name" : "French Polynesia",
+    "data" : "french_polynesia.json"
+  },
+  {
+    "name" : "French Southern Territories",
+    "data" : "french_southern_territories.json"
+  },
+  {
+    "name" : "Gabon",
+    "data" : "gabon.json"
+  },
+  {
+    "name" : "Gambia",
+    "data" : "gambia.json"
+  },
+  {
+    "name" : "Georgia",
+    "data" : "georgia.json"
+  },
+  {
+    "name" : "Germany",
+    "data" : "germany.json"
+  },
+  {
+    "name" : "Ghana",
+    "data" : "ghana.json"
+  },
+  {
+    "name" : "Gibraltar",
+    "data" : "gibraltar.json"
+  },
+  {
+    "name" : "Greece",
+    "data" : "greece.json"
+  },
+  {
+    "name" : "Greenland",
+    "data" : "greenland.json"
+  },
+  {
+    "name" : "Grenada",
+    "data" : "grenada.json"
+  },
+  {
+    "name" : "Guadeloupe",
+    "data" : "guadeloupe.json"
+  },
+  {
+    "name" : "Guam",
+    "data" : "guam.json"
+  },
+  {
+    "name" : "Guatemala",
+    "data" : "guatemala.json"
+  },
+  {
+    "name" : "Guernsey",
+    "data" : "guernsey.json"
+  },
+  {
+    "name" : "Guinea",
+    "data" : "guinea.json"
+  },
+  {
+    "name" : "Guyana",
+    "data" : "guyana.json"
+  },
+  {
+    "name" : "Haiti",
+    "data" : "haiti.json"
+  },
+  {
+    "name" : "Hashemite Kingdom of Jordan",
+    "data" : "hashemite_kingdom_of_jordan.json"
+  },
+  {
+    "name" : "Honduras",
+    "data" : "honduras.json"
+  },
+  {
+    "name" : "Hong Kong",
+    "data" : "hong_kong.json"
+  },
+  {
+    "name" : "Hungary",
+    "data" : "hungary.json"
+  },
+  {
+    "name" : "Iceland",
+    "data" : "iceland.json"
+  },
+  {
+    "name" : "India",
+    "data" : "india.json"
+  },
+  {
+    "name" : "Indonesia",
+    "data" : "indonesia.json"
+  },
+  {
+    "name" : "Iran",
+    "data" : "iran.json"
+  },
+  {
+    "name" : "Iraq",
+    "data" : "iraq.json"
+  },
+  {
+    "name" : "Ireland",
+    "data" : "ireland.json"
+  },
+  {
+    "name" : "Isle of Man",
+    "data" : "isle_of_man.json"
+  },
+  {
+    "name" : "Israel",
+    "data" : "israel.json"
+  },
+  {
+    "name" : "Italy",
+    "data" : "italy.json"
+  },
+  {
+    "name" : "Ivory Coast",
+    "data" : "ivory_coast.json"
+  },
+  {
+    "name" : "Jamaica",
+    "data" : "jamaica.json"
+  },
+  {
+    "name" : "Japan",
+    "data" : "japan.json"
+  },
+  {
+    "name" : "Jersey",
+    "data" : "jersey.json"
+  },
+  {
+    "name" : "Kazakhstan",
+    "data" : "kazakhstan.json"
+  },
+  {
+    "name" : "Kenya",
+    "data" : "kenya.json"
+  },
+  {
+    "name" : "Kiribati",
+    "data" : "kiribati.json"
+  },
+  {
+    "name" : "Kosovo",
+    "data" : "kosovo.json"
+  },
+  {
+    "name" : "Kuwait",
+    "data" : "kuwait.json"
+  },
+  {
+    "name" : "Kyrgyzstan",
+    "data" : "kyrgyzstan.json"
+  },
+  {
+    "name" : "Laos",
+    "data" : "laos.json"
+  },
+  {
+    "name" : "Latvia",
+    "data" : "latvia.json"
+  },
+  {
+    "name" : "Lebanon",
+    "data" : "lebanon.json"
+  },
+  {
+    "name" : "Lesotho",
+    "data" : "lesotho.json"
+  },
+  {
+    "name" : "Liberia",
+    "data" : "liberia.json"
+  },
+  {
+    "name" : "Libya",
+    "data" : "libya.json"
+  },
+  {
+    "name" : "Liechtenstein",
+    "data" : "liechtenstein.json"
+  },
+  {
+    "name" : "Luxembourg",
+    "data" : "luxembourg.json"
+  },
+  {
+    "name" : "Macao",
+    "data" : "macao.json"
+  },
+  {
+    "name" : "Macedonia",
+    "data" : "macedonia.json"
+  },
+  {
+    "name" : "Madagascar",
+    "data" : "madagascar.json"
+  },
+  {
+    "name" : "Malawi",
+    "data" : "malawi.json"
+  },
+  {
+    "name" : "Malaysia",
+    "data" : "malaysia.json"
+  },
+  {
+    "name" : "Maldives",
+    "data" : "maldives.json"
+  },
+  {
+    "name" : "Mali",
+    "data" : "mali.json"
+  },
+  {
+    "name" : "Malta",
+    "data" : "malta.json"
+  },
+  {
+    "name" : "Marshall Islands",
+    "data" : "marshall_islands.json"
+  },
+  {
+    "name" : "Martinique",
+    "data" : "martinique.json"
+  },
+  {
+    "name" : "Mauritania",
+    "data" : "mauritania.json"
+  },
+  {
+    "name" : "Mauritius",
+    "data" : "mauritius.json"
+  },
+  {
+    "name" : "Mayotte",
+    "data" : "mayotte.json"
+  },
+  {
+    "name" : "Mexico",
+    "data" : "mexico.json"
+  },
+  {
+    "name" : "Monaco",
+    "data" : "monaco.json"
+  },
+  {
+    "name" : "Mongolia",
+    "data" : "mongolia.json"
+  },
+  {
+    "name" : "Montenegro",
+    "data" : "montenegro.json"
+  },
+  {
+    "name" : "Montserrat",
+    "data" : "montserrat.json"
+  },
+  {
+    "name" : "Morocco",
+    "data" : "morocco.json"
+  },
+  {
+    "name" : "Mozambique",
+    "data" : "mozambique.json"
+  },
+  {
+    "name" : "Myanmar",
+    "data" : "myanmar.json"
+  },
+  {
+    "name" : "Namibia",
+    "data" : "namibia.json"
+  },
+  {
+    "name" : "Nepal",
+    "data" : "nepal.json"
+  },
+  {
+    "name" : "Netherlands",
+    "data" : "netherlands.json"
+  },
+  {
+    "name" : "New Caledonia",
+    "data" : "new_caledonia.json"
+  },
+  {
+    "name" : "New Zealand",
+    "data" : "new_zealand.json"
+  },
+  {
+    "name" : "Nicaragua",
+    "data" : "nicaragua.json"
+  },
+  {
+    "name" : "Niger",
+    "data" : "niger.json"
+  },
+  {
+    "name" : "Nigeria",
+    "data" : "nigeria.json"
+  },
+  {
+    "name" : "Niue",
+    "data" : "niue.json"
+  },
+  {
+    "name" : "Norfolk Island",
+    "data" : "norfolk_island.json"
+  },
+  {
+    "name" : "North Korea",
+    "data" : "north_korea.json"
+  },
+  {
+    "name" : "Norway",
+    "data" : "norway.json"
+  },
+  {
+    "name" : "Oman",
+    "data" : "oman.json"
+  },
+  {
+    "name" : "South Sudan",
+    "data" : "south_sudan.json"
+  },
+  {
+    "name" : "Pakistan",
+    "data" : "pakistan.json"
+  },
+  {
+    "name" : "Palestine",
+    "data" : "palestine.json"
+  },
+  {
+    "name" : "Panama",
+    "data" : "panama.json"
+  },
+  {
+    "name" : "Papua New Guinea",
+    "data" : "papua_new_guinea.json"
+  },
+  {
+    "name" : "Paraguay",
+    "data" : "paraguay.json"
+  },
+  {
+    "name" : "Peru",
+    "data" : "peru.json"
+  },
+  {
+    "name" : "Philippines",
+    "data" : "philippines.json"
+  },
+  {
+    "name" : "Pitcairn Islands",
+    "data" : "pitcairn_islands.json"
+  },
+  {
+    "name" : "Poland",
+    "data" : "poland.json"
+  },
+  {
+    "name" : "Portugal",
+    "data" : "portugal.json"
+  },
+  {
+    "name" : "Puerto Rico",
+    "data" : "puerto_rico.json"
+  },
+  {
+    "name" : "Qatar",
+    "data" : "qatar.json"
+  },
+  {
+    "name" : "Republic of Korea",
+    "data" : "republic_of_korea.json"
+  },
+  {
+    "name" : "Republic of Lithuania",
+    "data" : "republic_of_lithuania.json"
+  },
+  {
+    "name" : "Republic of Moldova",
+    "data" : "republic_of_moldova.json"
+  },
+  {
+    "name" : "Republic of the Congo",
+    "data" : "republic_of_the_congo.json"
+  },
+  {
+    "name" : "Reunion",
+    "data" : "reunion.json"
+  },
+  {
+    "name" : "Romania",
+    "data" : "romania.json"
+  },
+  {
+    "name" : "Russia",
+    "data" : "russia.json"
+  },
+  {
+    "name" : "Rwanda",
+    "data" : "rwanda.json"
+  },
+  {
+    "name" : "Saint Helena",
+    "data" : "saint_helena.json"
+  },
+  {
+    "name" : "Saint Kitts and Nevis",
+    "data" : "saint_kitts_and_nevis.json"
+  },
+  {
+    "name" : "Saint Lucia",
+    "data" : "saint_lucia.json"
+  },
+  {
+    "name" : "Samoa",
+    "data" : "samoa.json"
+  },
+  {
+    "name" : "San Marino",
+    "data" : "san_marino.json"
+  },
+  {
+    "name" : "Saudi Arabia",
+    "data" : "saudi_arabia.json"
+  },
+  {
+    "name" : "Senegal",
+    "data" : "senegal.json"
+  },
+  {
+    "name" : "Serbia",
+    "data" : "serbia.json"
+  },
+  {
+    "name" : "Seychelles",
+    "data" : "seychelles.json"
+  },
+  {
+    "name" : "Sierra Leone",
+    "data" : "sierra_leone.json"
+  },
+  {
+    "name" : "Singapore",
+    "data" : "singapore.json"
+  },
+  {
+    "name" : "Slovakia",
+    "data" : "slovakia.json"
+  },
+  {
+    "name" : "Slovenia",
+    "data" : "slovenia.json"
+  },
+  {
+    "name" : "Solomon Islands",
+    "data" : "solomon_islands.json"
+  },
+  {
+    "name" : "Somalia",
+    "data" : "somalia.json"
+  },
+  {
+    "name" : "South Africa",
+    "data" : "south_africa.json"
+  },
+  {
+    "name" : "Spain",
+    "data" : "spain.json"
+  },
+  {
+    "name" : "Sri Lanka",
+    "data" : "sri_lanka.json"
+  },
+  {
+    "name" : "Sudan",
+    "data" : "sudan.json"
+  },
+  {
+    "name" : "Suriname",
+    "data" : "suriname.json"
+  },
+  {
+    "name" : "Swaziland",
+    "data" : "swaziland.json"
+  },
+  {
+    "name" : "Sweden",
+    "data" : "sweden.json"
+  },
+  {
+    "name" : "Switzerland",
+    "data" : "switzerland.json"
+  },
+  {
+    "name" : "Syria",
+    "data" : "syria.json"
+  },
+  {
+    "name" : "Taiwan",
+    "data" : "taiwan.json"
+  },
+  {
+    "name" : "Tajikistan",
+    "data" : "tajikistan.json"
+  },
+  {
+    "name" : "Tanzania",
+    "data" : "tanzania.json"
+  },
+  {
+    "name" : "Thailand",
+    "data" : "thailand.json"
+  },
+  {
+    "name" : "Togo",
+    "data" : "togo.json"
+  },
+  {
+    "name" : "Tokelau",
+    "data" : "tokelau.json"
+  },
+  {
+    "name" : "Tonga",
+    "data" : "tonga.json"
+  },
+  {
+    "name" : "Trinidad and Tobago",
+    "data" : "trinidad_and_tobago.json"
+  },
+  {
+    "name" : "Tunisia",
+    "data" : "tunisia.json"
+  },
+  {
+    "name" : "Turkey",
+    "data" : "turkey.json"
+  },
+  {
+    "name" : "Turkmenistan",
+    "data" : "turkmenistan.json"
+  },
+  {
+    "name" : "Turks and Caicos Islands",
+    "data" : "turks_and_caicos_islands.json"
+  },
+  {
+    "name" : "Tuvalu",
+    "data" : "tuvalu.json"
+  },
+  {
+    "name" : "Uganda",
+    "data" : "uganda.json"
+  },
+  {
+    "name" : "Ukraine",
+    "data" : "ukraine.json"
+  },
+  {
+    "name" : "United Arab Emirates",
+    "data" : "united_arab_emirates.json"
+  },
+  {
+    "name" : "United Kingdom",
+    "data" : "united_kingdom.json"
+  },
+  {
+    "name" : "United States",
+    "data" : "united_states.json"
+  },
+  {
+    "name" : "Uruguay",
+    "data" : "uruguay.json"
+  },
+  {
+    "name" : "U.S. Virgin Islands",
+    "data" : "us_virgin_islands.json"
+  },
+  {
+    "name" : "Uzbekistan",
+    "data" : "uzbekistan.json"
+  },
+  {
+    "name" : "Vanuatu",
+    "data" : "vanuatu.json"
+  },
+  {
+    "name" : "Vatican City",
+    "data" : "vatican_city.json"
+  },
+  {
+    "name" : "Venezuela",
+    "data" : "venezuela.json"
+  },
+  {
+    "name" : "Vietnam",
+    "data" : "vietnam.json"
+  },
+  {
+    "name" : "Wallis and Futuna",
+    "data" : "wallis_and_futuna.json"
+  },
+  {
+    "name" : "Yemen",
+    "data" : "yemen.json"
+  },
+  {
+    "name" : "Zambia",
+    "data" : "zambia.json"
+  },
+  {
+    "name" : "Zimbabwe",
+    "data" : "zimbabwe.json"
+  }
+]
